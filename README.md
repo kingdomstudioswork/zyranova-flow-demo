@@ -1,4 +1,4 @@
-# 🌌 Palooza
+# 🌌 ZYRANOVA
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
@@ -10,7 +10,7 @@
 
 ## 🚀 Introduction
 
-**Palooza** is a decentralized Metaverse platform where users can explore, create, and transact in a fully tokenized virtual world.  
+**ZYRANOVA** is a decentralized Metaverse platform where users can explore, create, and transact in a fully tokenized virtual world.  
 It leverages blockchain technology for transparent ownership, NFT-based assets, and provably fair gameplay mechanics.
 
 **Key Features:**
